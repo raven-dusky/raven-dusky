@@ -1,5 +1,5 @@
 <h1 align="center">🤟 Hey, pal. I'm Giulio.</h1>
-<h3 align="center">[Web] Full-stack dev in progress, soon to master CyberSecurity and (possibly, but let’s not get ahead of ourselves) rule the web.</h3>
+<h3 align="center">[Web] Full-stack dev in progress..</h3>
 
 - 🌱 I’m currently learning **How to make my code look like I actually know what I’m doing.**
 
